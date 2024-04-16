@@ -1,4 +1,4 @@
-package com.algorithms.course.linkedList;
+package com.algorithms.course.linkedLists;
 
 public class LinkedList<T> {
 
