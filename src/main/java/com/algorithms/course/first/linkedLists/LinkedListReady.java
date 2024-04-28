@@ -1,4 +1,4 @@
-package com.algorithms.course.linkedLists;
+package com.algorithms.course.first.linkedLists;
 
 import java.util.Objects;
 import java.util.stream.Stream;

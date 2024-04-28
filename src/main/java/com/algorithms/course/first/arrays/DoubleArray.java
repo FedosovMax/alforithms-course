@@ -1,4 +1,4 @@
-package com.algorithms.course.arrays;
+package com.algorithms.course.first.arrays;
 
 import java.util.Arrays;
 
@@ -6,9 +6,9 @@ public class DoubleArray {
 
     public static void main(String[] args) {
         DoubleArray doubleArray = new DoubleArray();
-//        doubleArray.printDoubleArray();
+        doubleArray.printDoubleArray();
 //        doubleArray.printTripleArray();
-        doubleArray.printQuadroArray();
+//        doubleArray.printQuadroArray();
     }
 
     private void printDoubleArray() {
